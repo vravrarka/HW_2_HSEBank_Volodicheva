@@ -1,0 +1,65 @@
+﻿[
+  {
+    "Id": 1,
+    "Type": "Income",
+    "BankAccountId": 1,
+    "Amount": 50000,
+    "Date": "2024-01-15",
+    "CategoryId": 1,
+    "Description": "Зарплата за январь"
+  },
+  {
+    "Id": 2,
+    "Type": "Expense", 
+    "BankAccountId": 1,
+    "Amount": 3000,
+    "Date": "2024-01-16",
+    "CategoryId": 4,
+    "Description": "Продукты в Пятерочке"
+  },
+  {
+    "Id": 3,
+    "Type": "Expense",
+    "BankAccountId": 1, 
+    "Amount": 500,
+    "Date": "2024-01-17",
+    "CategoryId": 5,
+    "Description": "Метро"
+  },
+  {
+    "Id": 4,
+    "Type": "Expense",
+    "BankAccountId": 1,
+    "Amount": 1500,
+    "Date": "2024-01-18", 
+    "CategoryId": 7,
+    "Description": "Кофе с коллегами"
+  },
+  {
+    "Id": 5,
+    "Type": "Income",
+    "BankAccountId": 1,
+    "Amount": 2000,
+    "Date": "2024-01-20",
+    "CategoryId": 3,
+    "Description": "Кэшбэк за покупки"
+  },
+  {
+    "Id": 6,
+    "Type": "Expense",
+    "BankAccountId": 2,
+    "Amount": 10000,
+    "Date": "2024-01-25",
+    "CategoryId": 6,
+    "Description": "Кино и ужин"
+  },
+  {
+    "Id": 7,
+    "Type": "Income",
+    "BankAccountId": 2,
+    "Amount": 5000,
+    "Date": "2024-01-28",
+    "CategoryId": 2, 
+    "Description": "Дивиденды по акциям"
+  }
+]
